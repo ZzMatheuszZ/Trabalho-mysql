@@ -1,0 +1,19 @@
+.barra{
+	border-radius: 0px;
+	background:rgba(0,0,0,0.8);
+	padding: 10px;
+	margin-bottom: 40px;
+
+}
+.barra a{
+	font-size: 20px;
+}
+.btnn{
+	border-radius: 0px;
+	background: rgba(0, 0, 0, 0.8);
+	color: #fff;
+	border: none;
+}
+.sinopse{
+	height: 200px;
+}
